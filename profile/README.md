@@ -18,6 +18,13 @@ It is a **landscape of breathing code**, made of tools designed to simplify, ins
 
 ---
 
+### 🌐 Available translations
+
+- 🇬🇧 English – [README.md](./README.md)
+- 🇮🇹 Italiano – [README.it.md](./README.it.md)
+
+---
+
 ## 🎯 Mission
 
 To develop **tools, frameworks, and languages** for those who create with clarity, intention, and lightness.  
