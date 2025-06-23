@@ -64,13 +64,26 @@ Esplora la nostra filosofia progettuale sul [sito ufficiale di UnicòVerso](http
 - **[KIMU](https://github.com/unicoverso/kimu)** – Keep It Minimal UI  
   ➤ Framework frontend ultra-leggero basato su Web Components.  
   ➤ Pensato per chi progetta con chiarezza e intenzione.
+  > *"Ogni estensione è un pensiero. Ogni interfaccia è un gesto."*
 
 In arrivo:
-- **KIMU Playground** – editor guidato per creare estensioni  
-- **KanProject** – task manager visivo e minimale  
-- **RicordaMe** – note grafiche collaborative  
-- **PetalinaBot** – bot Telegram teatrale e giocoso  
-- **Robobot** – assistente desktop umano-digitale  
+- 🤖 `Aivoo - Robobot` – Assistente robotico da scrivania, locale, modulare e curioso.  
+> *"Piccolo nelle dimensioni. Grande nell’interazione. Non uno strumento, ma un dialogo in movimento."*
+
+- 🦋 `Nuricò - NuiVisio` – Framework di design per l’interazione naturale e incarnata.  
+> *"Interfaccia naturale tra corpo, spazio e visione."*
+
+- 🔖 `QTag Code - FindMe` – Il codice che ti riporta le cose.  
+> *"Punti di contatto digitali per memoria, identità e scoperta."*
+
+- 🎨 `KIMU Playground` – Editor guidato per creare estensioni in tempo reale.  
+> *"Uno spazio dove il codice prende forma giocando. Sperimenta, modifica, osserva."*
+
+- 🗂 `KanProject` – Task manager visivo e minimale.  
+> *"Organizza il flusso con chiarezza. Ogni azione ha il suo posto, ogni progetto il suo respiro."*
+
+- 📝 `RicordaMe` – App per note grafiche collaborative.  
+> *"Scrivere insieme, con segni e colori. Perché ricordare è anche disegnare il pensiero."*
 
 ---
 
